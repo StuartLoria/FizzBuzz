@@ -1,5 +1,5 @@
 # FizzBuzz
-FizzBuzz project
+My implementation of the FizzBuzz exercise, I wanted to use ES6 new features and to create a decoupled version
 
 ## Run local http files that reference js files
 * Open Terminal
